@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vW+/bxnL1fjHNc+409u9OzJ/eeXC+v1itI+PWM/4yxMDIInCVLjG0nJ1beizv2GuSWSEqmXDbxBfuAPmWJ9Zlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Documentos\\Cursos\\Bootcamp Take Blip - .Net ReactJS\\C#PrimeirosPassos\\dio_cs_1st_steps_ex1\\csharp-examples\\01-EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
